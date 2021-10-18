@@ -1,2 +1,1 @@
-# Social Credit Test
-a flask web server that works as a social credit test from the memes, while logging your emails (china)
+# WARNING THIS CODE IS A FULL WORK IN PROGRESS AND USING THIS WILL RESULT IN GETTING YOU EXECUTED AT THE TIANAMMEN SQUARE
